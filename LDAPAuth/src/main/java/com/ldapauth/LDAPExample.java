@@ -49,6 +49,11 @@ public class LDAPExample {
                     String username = cnAttr != null ? (String) cnAttr.get() : "Unknown";
                     System.out.println("Found user in OU " + searchOU + ": " + username);
                     System.out.println("++++++++++++++++++++++++++++++ghgdddfdfdfjsdkj");
+                    System.out.println("++++++++++++++++++++++++++++++ghgdddfdfsdsdsdfjsdkj");
+                    System.out.println("++++++++++++++++++++++++++++++faridfjsdkj");
+
+
+                    
                 }
             }
             
