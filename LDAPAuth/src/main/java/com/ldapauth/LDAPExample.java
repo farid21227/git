@@ -48,6 +48,7 @@ public class LDAPExample {
                     Attribute cnAttr = attrs.get("cn");
                     String username = cnAttr != null ? (String) cnAttr.get() : "Unknown";
                     System.out.println("Found user in OU " + searchOU + ": " + username);
+                    System.out.println("++++++++++++++++++++++++++++++ghgdddfdfdfjsdkj");
                 }
             }
             
